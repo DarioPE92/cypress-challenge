@@ -88,3 +88,13 @@ cypress/
 - API tests use Cypress `.then()` chaining.
 - Test data is generated dynamically.
 - If Allure does not open, confirm Java is installed and in PATH.
+  
+## Test Coverage
+
+The implemented scenarios focus on the main business flows due to the assessment scenario limitation.
+
+Potential additional scenarios:
+- Invalid login credentials
+- Duplicate user registration
+- Unauthorized API requests
+- Required field validations
