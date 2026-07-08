@@ -1,9 +1,8 @@
-# Cypress Challenge | QA Senior Assessment
+# Cypress Challenge
 
 A simple, professional test automation project with **6 test scenarios** (3 UI + 3 API).
 
 **Quick Start:** `npm install` → `npm run test:all:open` → Done!
-# Cypress Challenge | QA Senior Assessment
 
 Automated UI and API tests for the ServeRest demo app.
 
